@@ -1,0 +1,26 @@
+.name{
+	display: flex;
+	margin: 3px;
+	padding: 3px;
+	background-color: royalblue;
+	justify-content: center;
+	font-size: 90px;
+}
+.name2 {
+	display: flex;
+	margin: 3px;
+	padding: 3px;
+	background-color: orange;
+	justify-content: center;
+	font-size: 90px;
+}
+.j{
+    margin: 5px;
+	padding: 5px;
+	color: darkorange;
+}
+.a{
+	margin: 5px;
+	padding: 5px;
+	color: darkred;
+}
